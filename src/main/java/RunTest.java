@@ -22,7 +22,7 @@ public class RunTest {
     @Test
     public void main(){
         open("https://demoqa.com/automation-practice-form");
-        // тест 3
+        // тест 311
     }
 
     @Test
